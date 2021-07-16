@@ -1,0 +1,65 @@
+body{
+    font-family:monospace;
+    background-color:b7e4c7;
+}
+
+.photo{
+    display: flex;
+    justify-content: space-around;
+}
+.images{
+    height: 250px;
+    width: 380px;
+    border-radius: 10px;
+}
+
+h1{
+    text-align:center;
+    background-color:007f5f;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h3{
+    margin-left:20px;
+}
+
+span{
+    text-align: center;
+    align-content:space-around;
+
+}
+
+one{
+    margin-left: 100px;
+    margin-right: 20px;
+}
+
+two{
+    margin-right: 100px;
+    margin-left: 20px;
+}
+
+three{
+    margin-left: 100px;
+    margin-right: 20px;
+}
+
+four{
+    margin-right: 100px;
+    margin-left: 20px;
+}
+
+five{
+    margin-left: 100px;
+    margin-right: 20px;
+}
+
+six{
+    margin-right: 100px;
+    margin-left: 20px;
+}
+
+
+
+
